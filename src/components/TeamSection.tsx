@@ -13,7 +13,7 @@ const TeamSection = () => {
     {
       name: "Jinadu Adebanke Esther",
       role: "Community Success Manager",
-      bio: " Manager at Empower Her Remotely (EHR), dedicated to ensuring members have the tools, support, and guidance they need to succeed in their remote work journey. She focuses on creating value-driven experiences that help women grow and thrive. ",
+      bio: " Adebanke is the Community Success Manager at Empower Her Remotely (EHR), dedicated to ensuring members have the tools, support, and guidance they need to succeed in their remote work journey. She focuses on creating value-driven experiences that help women grow and thrive. ",
       image: TeamImg2
     }
   ];
