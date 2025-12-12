@@ -63,7 +63,7 @@ const Navigation = () => {
 
             {/* Updated Button */}
             <a          
-              href="https://chat.whatsapp.com/KzM97a7MEQT6SyTjdhZRFW?mode=ems_copy_t"
+              href="https://chat.whatsapp.com/LL5SOKM7Zjg7E84WXpPJla?mode=wwt"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#B08CD4] text-white font-extrabold text-xl px-5 py-2 rounded-full hover:bg-black hover:text-white transition duration-300"
@@ -106,7 +106,7 @@ const Navigation = () => {
               {/* Mobile Button */}
               <div className="px-3 py-2">
                 <a
-                  href="https://chat.whatsapp.com/KzM97a7MEQT6SyTjdhZRFW?mode=ems_copy_t"
+                  href="https://chat.whatsapp.com/LL5SOKM7Zjg7E84WXpPJla?mode=wwt"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full block bg-[#B08CD4] text-white font-extrabold px-4 py-2 rounded-full hover:bg-black hover:text-white transition duration-300 text-center"
