@@ -104,7 +104,7 @@ const Testimonials = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up">
 <a
-  href="https://chat.whatsapp.com/GpkV9Q8FRYZ6bodxBE0AQ0?mode=wwt"  // Replace with your WhatsApp number in international format
+  href="https://chat.whatsapp.com/HbrcKkhgtatKjhxGLnO54D?mode=gi_t"  // Replace with your WhatsApp number in international format
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -113,6 +113,7 @@ const Testimonials = () => {
                hover:from-[#603093] hover:via-[#4F227B] hover:to-[#2b1247] 
                text-white px-8 py-4 rounded-full font-semibold 
                transition-all duration-300 transform hover:scale-105"
+
   >
     Join WhatsApp Community
   </button>
