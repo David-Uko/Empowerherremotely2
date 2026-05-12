@@ -104,7 +104,7 @@ const Testimonials = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up">
 <a
-  href="https://chat.whatsapp.com/HbrcKkhgtatKjhxGLnO54D?mode=gi_t"  // Replace with your WhatsApp number in international format
+  href="https://chat.whatsapp.com/JVqxxbGLcGgEVEW9pht8sA?mode=gi_t"  // Replace with your WhatsApp number in international format
   target="_blank"
   rel="noopener noreferrer"
 >

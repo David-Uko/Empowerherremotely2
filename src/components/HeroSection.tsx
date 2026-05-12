@@ -67,7 +67,7 @@ const HeroSection = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 animate-slide-in-right">
             {/* WhatsApp Button */}
             <a
-  href="https://chat.whatsapp.com/HbrcKkhgtatKjhxGLnO54D?mode=gi_t"
+  href="https://chat.whatsapp.com/JVqxxbGLcGgEVEW9pht8sA?mode=gi_t"
   target="_blank"
   rel="noopener noreferrer"
   className="btn-primary group rounded-lg flex items-center px-1 py-9 text-sm"
