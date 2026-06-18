@@ -63,7 +63,7 @@ const Navigation = () => {
 
             {/* Updated Button */}
             <a          
-              href="https://chat.whatsapp.com/JVqxxbGLcGgEVEW9pht8sA?mode=gi_t"
+              href="https://chat.whatsapp.com/KjrBD8uZrTv0trKSLmVjgw?mode=gi_t"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#B08CD4] text-white font-extrabold text-xl px-5 py-2 rounded-full hover:bg-black hover:text-white transition duration-300"
