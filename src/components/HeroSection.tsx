@@ -110,7 +110,7 @@ const HeroSection = () => {
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-white">95%</div>
-              <div className="text-white/80">Business Rate</div>
+              <div className="text-white/80">Success Rate</div>
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-white">24/7</div>
